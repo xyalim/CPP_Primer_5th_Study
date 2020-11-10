@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="globalH.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="chapter_1_2_IO.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -30,20 +24,17 @@
     <ClInclude Include="chapter_1_5_Class.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Sales_item.h">
+    <ClInclude Include="globalH.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Version_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pch.h">
+    <ClInclude Include="Sales_item.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="chapter_1_2_IO.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -53,7 +44,7 @@
     <ClCompile Include="chapter_1_5_Class.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
